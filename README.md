@@ -6,8 +6,7 @@ I am passionate about technology and microelectronics.
 </a>
 Below are some technologies I am familar with.
 - Languages: Java, Javascript, C, C++, C#, Python
-- Backend: Nodejs, Express, MongoDB, SQL
-- Frontend: Nextjs, React, Angular
+- Frontend + Backend: Nextjs, React, Angular, Nodejs, Express, MongoDB, SQL
 - Styling: CSS, SCSS, MUI, Bootstrap
 
 
