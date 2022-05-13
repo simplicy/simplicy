@@ -7,7 +7,7 @@ I am passionate about technology and microelectronics.
 Below are some technologies I am familar with.
 - Languages: Java, Javascript, C, C++, C#, Python
 - Frontend + Backend: Nextjs, React, Angular, Nodejs, Express, MongoDB, SQL
-- Styling: CSS, SCSS, MUI, Bootstrap
+- Styling: CSS, SCSS, MUI, tailwind, Bootstrap
 
 
 <p align='right'> CompTia A+ Certified</p>
