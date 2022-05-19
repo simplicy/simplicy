@@ -10,4 +10,5 @@ Below are some technologies I am familar with.
 - Styling: CSS, SCSS, MUI, Tailwind, Bootstrap
 
 
+
 <p align='right'> CompTia A+ Certified</p>
