@@ -6,6 +6,6 @@ I am passionate about technology and everything that we can acheive with it. Rec
 </a>
 
 Below are some technologies I am familar with.
-- Languages: Java, Javascript, C, C++, C#, Python
+- Languages: Java, Rust, Javascript, C, C++, C#, Python
 - Frontend + Backend: Nextjs, React, Angular, Nodejs, Express, MongoDB, SQL
 - Styling: CSS, SCSS, MUI, Tailwind, Bootstrap
