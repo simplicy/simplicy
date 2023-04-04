@@ -15,5 +15,5 @@ Current System:
 - OS: Kubuntu 22.04.1 LTS x86_64 
 - CPU: AMD Ryzen 9 5950X (32) @ 3.400GHz 
 - GPU: AMD ATI Radeon RX 6800/6800 XT / 6900 XT 
-- Memory: 132Gb 
+- Memory: 128Gb 
   
