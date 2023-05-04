@@ -8,8 +8,7 @@ I love to tinker with electronics and mess around with code. Check out some of m
 Below are some technologies I am familar with.
 - Languages: Java, Rust, Javascript, C, C++, C#, Python
 - Frameworks: Nextjs, React
-- Backend: Rust, Python, Nodejs
-- Database: MongoDB, SQL
+- Database: MongoDB, SQL, SurrealDB
   
 Current System: 
 - OS: Kubuntu 22.04.1 LTS x86_64 
