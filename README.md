@@ -1,9 +1,6 @@
 # Hi, I'm Sean Hopkins
 
 I love to tinker with electronics and mess around with code. Check out some of my work if you're interested! 
-<a href="https://www.credly.com/badges/ea4ca0c8-6428-4bb1-a88f-3e28e5e8954f/public_url" >
-  <img align='right' src="badge.png" alt="CompTia Badge" style="margin: 1em;">
-</a>
   
 Below are some technologies I am familar with.
 - Languages: Java, Rust, Javascript, C, C++, C#, Python
