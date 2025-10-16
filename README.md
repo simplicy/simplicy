@@ -1,16 +1,16 @@
-## Hi there 👋
+I'm Simplicy
 
-<!--
-**simplicy/simplicy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I code a lot of things, mostly in Rust for the UNIX platform.
 
-Here are some ideas to get you started:
+Check out my [website](https://simplicy.info).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Follow my [work](https://git.sympil.com).
+
+Read my [thoughts](https://blog.simplicy.info).
+
+### Stats:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=simplicy&show_icons=true&title_color=69a6f8&bg_color=0e1116&border_color=31363c&text_color=cad1d8&icon_color=6f7680&border_radius=5)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simplicy&layout=compact&hide=vue&title_color=69a6f8&bg_color=0e1116&border_color=31363c&text_color=cad1d8&icon_color=6f7680&border_radius=5)
+
